@@ -1,0 +1,17 @@
+#change6color {
+  color: crimson;
+}
+
+.box {
+  height: 150px;
+  width: 350px;
+  margin: 0 auto;
+  background: darkslateblue;
+  margin-top: 30px;
+  border-radius: 5px;
+}
+
+.container {
+  padding: 20px;
+}
+/*# sourceMappingURL=style.css.map */
